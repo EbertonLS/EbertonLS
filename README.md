@@ -1,4 +1,4 @@
-## Olá, prazer! Eu sou o Eberton.
+## Eu sou o Eberton.
 
 
 - 🔭 Trabalho em uma empresa de telefonia e seviços de internet, no setor de atendimento ao cliente, exercendo função de suporte técnico nivel 1.
@@ -13,5 +13,5 @@
 <div align="center">
   <a href="https://github.com/EbertonLS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EbertonLS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbertonLS&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbertonLS&layout=compact&langs_count=7&theme=dark"/>
 </div>
